@@ -14,7 +14,7 @@
     "react": "^16.13.0",
     "react-datetime-picker": "^2.9.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "react-time-picker": "^3.9.0",
     "react-widgets": "^4.4.11",
     "react-widgets-globalize": "^5.0.20"
